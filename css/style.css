@@ -2,7 +2,7 @@ body {
     overflow: hidden;
 }
 
-.max-width {
+#max-width {
     background-image: url(../imagens/taeyeon.jpg);
     background-size: cover;
     background-repeat: no-repeat;
